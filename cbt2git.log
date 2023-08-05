@@ -1,0 +1,21 @@
+2023-08-06 00:34:41.198127 - Initialized conversion of CBT047
+2023-08-06 00:34:42.039111 - Received CBT.V505.FILE047.PDS from FILE047.XMI 
+2023-08-06 00:34:42.041266 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:34:42.042159 - Found $DOC.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/$DOC
+2023-08-06 00:34:42.043390 - Found @FILE047.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/@FILE047
+2023-08-06 00:34:42.043398 - Found ASM.bin containing application/octet-stream, moved to PDS/ASM
+2023-08-06 00:34:42.045629 - Found CLISTS.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/CLISTS
+2023-08-06 00:34:42.047465 - Found CMD1.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/CMD1
+2023-08-06 00:34:42.047473 - Found EDX.bin containing application/octet-stream, moved to PDS/EDX
+2023-08-06 00:34:42.049349 - Found EXITS.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/EXITS
+2023-08-06 00:34:42.050351 - Found JCLFLOW.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/JCLFLOW
+2023-08-06 00:34:42.050357 - Found LISTICAT.bin containing application/octet-stream, moved to PDS/LISTICAT
+2023-08-06 00:34:42.052756 - Found MSGS.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/MSGS
+2023-08-06 00:34:42.052764 - Found NOCELL.bin containing application/octet-stream, moved to PDS/NOCELL
+2023-08-06 00:34:42.055192 - Found PANELS.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/PANELS
+2023-08-06 00:34:42.056254 - Found RMFIII.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/RMFIII
+2023-08-06 00:34:42.057265 - Found SAS.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/SAS
+2023-08-06 00:34:42.058228 - Found SASOLDER.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/SASOLDER
+2023-08-06 00:34:42.059221 - Found SKELS.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/SKELS
+2023-08-06 00:34:42.060210 - Found SMPELIST.txt (text/plain) in CBT.V505.FILE047.PDS, moved to PDS/SMPELIST
+2023-08-06 00:34:42.060218 - Found TABLES.bin containing application/octet-stream, moved to PDS/TABLES
